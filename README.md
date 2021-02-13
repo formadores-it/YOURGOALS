@@ -15,3 +15,4 @@ Para ejecutar el proyecto en Spring:
 Solución de errores:
 -Spring da bastantes errores a la hora de cargar proyectos desde directorios. La forma más fácil de solucionarlos es: borrando la carpeta ".m2" que se encuentra normalmente en C/Users/{nombre de usuario}/.m2
 -Otra forma de solucionar muchos errores es usar Alt+F5 en Spring y actualizar el proyecto Maven.
+By Formadores IT
